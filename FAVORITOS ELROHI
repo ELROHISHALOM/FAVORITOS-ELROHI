@@ -25,126 +25,79 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K358qPjA012QpiLJeW_3X1s900zL
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K358qPjA012QpiLJeW_3X1s-qour5trWqjFBynlk1XIQy/ts
 #EXTINF:0,NIC: CDNN 23
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wFCeLsIIgkbR-o6SGa9qJHJPD8U_HLFRG2p9K1cuMKZ/ts
+#EXTINF:0,CANAL +23 NIC - 125970
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125970
+#EXTINF:0,CANAL WTV NIC - 150656
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150656
+#EXTINF:30,CANAL TICAVISION - chunklist_w1395545163.m3u8
+#EXTVLCOPT:network-caching=1000
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1395545163.m3u8
+#EXTINF:0,HISPANTV - 139474
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/139474
+#EXTINF:60,ESTRELLA NEWS - playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d97f682a3002c34829b
+#EXTVLCOPT:network-caching=1000
+https://estrellanews-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d97f682a3002c34829b
+#EXTINF:54,ESTRELLA TV - playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d98f682a3002c34829f
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d98f682a3002c34829f
+#EXTINF:0,AME 47
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35K0QeDYaVfLEfKHsCuKH_4ahP-tZ5VEGlnxlVrqyZzl/ts
+#EXTINF:0,GAME OF THRONES 24/7 - 129330
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129330
 #EXTINF:0,24/7 JUEGO DE TRONOS
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30v3MWYaCSK9howQ9RypUlG90B-i4SlDymtWsaRfB28j/ts
 #EXTINF:0,24/7 Alienigenas Ancestrales
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37_vIVIyOoMleYkOFDsDX3S-nOwZNmXhcbwPFsSWs8NL/ts
 #EXTINF:0,24/7 Alienigenas Ancestrales
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp25EJsCgrZOILcbEcTInWi7I/ts
-#EXTINF:0,24/7 Caso Cerrado La Familia 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33lIo_hUemYPSmfbHLd-Aqg98UBIqo78A-_H0AqsuG8W/ts
-#EXTINF:0,24/7 Caso Cerrado La Familia 3
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33yMaxW66-Q1z_lxPzKKyp8-DvRPZgkwwXk-_J-9yAu4/ts
-#EXTINF:0,24/7 El Mundo De Beakman Temp 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36dizD8CfByZVCN6xQLhPvR855NfzgUS6Yd1p-TZHFtn/ts
-#EXTINF:0,24/7 El Mundo De Beakman Temp 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33e8TPd7hTNxhUcHKkyVmr6tQFPVbF0hCpP4x5Mqykmy/ts
-#EXTINF:0,24/7 El Mundo De Beakman Temp 3
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MlHaXpXhfo6tzJf9RAyaDo2eVjo9k-ftgRmZpTUNUF/ts
-#EXTINF:0,24/7 El Mundo De Beakman Temp 4
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wkRZUceHjqw274evBy4vpYTd5C0fldOpSusaPGY0nal/ts
-#EXTINF:0,24/7 Laura Bozzo
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3x0e1z9QO4RQxhPdqsWra81jY9PCVXcYlXW_HbpEWOez/ts
-#EXTINF:0,24/7 Lo Que Callamos Las Mujeres
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34DCZ3rY0Upjz-e6k018UxX-G9yQGLqnWNXmVHcLxBCt/ts
+#EXTINF:0,24/7 1000 Maneras de Morir
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36LDKQWC85Bug1MK6gEvDxJUqSubs6PPb-AjUPmF_xCi/ts
+#EXTINF:0,24/7 Alerta Aeropuerto SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36LDKQWC85Bug1MK6gEvDxJni4DZspkmpXmjV-achvFL/ts
+#EXTINF:0,24/7 Mayday Catastrofes Aereas
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36LDKQWC85Bug1MK6gEvDxLX0P0xu3tPTd1gjkVbrKAE/ts
 #EXTINF:0,24/7 Mayday Catastrofes Aereas
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wp1l8seFT9uoU77ppLp0Rqs7cUmKqNxNJ6mPdJphGbO/ts
-#EXTINF:0,24/7 El Auto Fantastico (2008)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYU5lXG0gFf25JIVZRRDKDt2/ts
-#EXTINF:0,24/7 Los Magnificos Temp 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYW770RbYEIM0jV49vpl5zZl/ts
-#EXTINF:0,24/7 MacGiver (2016) Temp 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXvuODYTntcsuenJ5qC1Tnz/ts
-#EXTINF:0,24/7 MacGiver (2016) Temp 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXeYP8btr18QTZNlqdsU2sf/ts
-#EXTINF:0,24/7 Baywatch
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYUIBmbCbIIyZEtCKiA9pfPc/ts
-#EXTINF:0,24/7 El Zorro SD (1956)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYVHcPGV1NiI5kLeFKTNATcB/ts
-#EXTINF:0,24/7 Walker Texas Ranger
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYUagAbHEtvySbKaWv9YnDxl/ts
-#EXTINF:0,24/7 El Auto Fantastico Temp 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXLu5qnNTRA3flq0ZAyApEY/ts
-#EXTINF:0,24/7 MacGyver
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXW7On9yNCgNVTtxc8DF6f9/ts
-#EXTINF:0,24/7 La Familia Peluche
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYUs_HiXVgHRjW_ujViGRU57/ts
-#EXTINF:0,24/7 Una Familia de Diez
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4DC5bcW7Fj47yVrYK6WpCip/ts
-#EXTINF:0,24/7 La Hora Pico
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4DvLhVvZqLsqh3jMcQv6uVO/ts
-#EXTINF:0,24/7 Un Show Mas
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4BjAlVEpPIHkcJ7-MvvTgKN/ts
-#EXTINF:0,24/7 Paso A Paso Temp 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4B8g0vlBKDRMNAl7SeUW7iZ/ts
-#EXTINF:0,24/7 Paso A Paso Temp 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4C2E61pwlb0MhAfMNIiaC9I/ts
+#EXTINF:0,24/7 Oxlack Investigador Paranormal
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zfR5dtVye0n0JbumUZItOuy_yFuMWA2ACNttKKaSws8/ts
+#EXTINF:0,24/7 Pedro Infante
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4Dpg1KzZT3L-1ExHNqSrcD2/ts
+#EXTINF:0,24/7 Cantinflas (Animada)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xB_iWRfLAudSjUrdg_d7FqU0Mcu90Qm8m0FwKfV6wxe/ts
+#EXTINF:0,CANTINFLAS ANIMADO 24/7 - 150692
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150692
 #EXTINF:0,24/7 Cantinflas Parte 1 (18 Peliculas)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4A_wZZZefBIhj8Zlpd_UZ9-/ts
 #EXTINF:0,24/7 Cantinflas Parte 2 (19 Peliculas)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4A43n4yiH6Rdka0H6BjeYnc/ts
-#EXTINF:0,24/7 Pedro Infante
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4Dpg1KzZT3L-1ExHNqSrcD2/ts
-#EXTINF:0,24/7 La India Maria
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4A1hu3Hv0h-WjTOGFF4Jb7-/ts
-#EXTINF:0,24/7 Mr Bean
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4CUCv2dT6dGZSGTe3NdT-o8/ts
-#EXTINF:0,24/7 Porcel Y Olmedo
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSlFJF_nsKSI0zmvF7vXFz3/ts
-#EXTINF:0,24/7 Los 3 Chiflados
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRlzycJaVeoTPzUKIFdsniA/ts
-#EXTINF:0,24/7 Friends SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRTKYaOX1ZogOn7cye9Y_j-/ts
-#EXTINF:0,24/7 Full House SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZR82UVE9ArlU43MXv-mBEGN/ts
-#EXTINF:0,24/7 Hannah Montana Temp 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRlj9YLtDl8GGxq-iINlj-b/ts
-#EXTINF:0,24/7 Hannah Montana Temp 3
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSKKuxvJeMpmmABuTaI3kBv/ts
-#EXTINF:0,24/7 Hannah Montana Temp 4
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSzjALbi40kKiJLZnx2EzLq/ts
-#EXTINF:0,24/7 Hechizada SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSo4hBbovfEoSZey9AKQTbE/ts
-#EXTINF:0,24/7 Mi Bella Genio Temp 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZR5A6DbogZz0svklNXZ0_Nh/ts
-#EXTINF:0,24/7 La Niñera Temp 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRtSGsqFkZ_n6BDNCzrBpi4/ts
-#EXTINF:0,24/7 La Niñera Temp 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw5mLLbo_D5V9lV702p0f8De/ts
-#EXTINF:0,24/7 La Niñera Temp 3
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw7XK4z3x0-F159PzUpyoYa4/ts
-#EXTINF:0,24/7 La Niñera Temp 4
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw6xLSqML46Vzvuk27SFZDAp/ts
-#EXTINF:0,24/7 La Niñera Temp 5
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw5K0H-0Qpnrcphg1LqqWYFf/ts
-#EXTINF:0,24/7 La Niñera Temp 6
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw7CtBS0I28ZsxGHl74pwtaL/ts
-#EXTINF:0,24/7 Lo Mejor de Videomatch
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw7mcc2ERpd9obLED37FipXi/ts
-#EXTINF:0,24/7 Malcolm el de en medio SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw6MBeSwGFVYfBhijnXOHI-R/ts
-#EXTINF:0,24/7 Sabrina la bruja adolescente Temp 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw75astD1R0oxP-Nm_sXGEpY/ts
+#EXTINF:0,EL CHAPULIN COLORADO ANIMADO 24/7 - 140845
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140845
+#EXTINF:0,EL CHAVO DEL 8 ANIMADO 24/7 - 131452
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131452
+#EXTINF:0,24/7 El Chavo del 8 Serie Animada
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zHMdAwk7rfrKNsX9Lq5MKNaAJjlGEyfsqM0BYOV1kGT/ts
+#EXTINF:0,EL CHAVO DEL 8 - 129315
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129315
+#EXTINF:0,CHESPIRITO 24/7 - 129322
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129322
+#EXTINF:0,EL CHAPULIN COLORADO 24/7 - 129323
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129323
 #EXTINF:0,24/7 Chespirito (1970)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw4qKITUAVrTGXmm9-ZWeRg6/ts
 #EXTINF:0,24/7 Chespirito (1980)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw5995eTVrfSkh39VuUoiKCm/ts
 #EXTINF:0,24/7 Chespirito (1981)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j206UjgOSn5eoOsUjyvV1EM/ts
-#EXTINF:0,24/7 The Big Bang Theory
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j368ATYKvfMLqcTk3roWgYm/ts
-#EXTINF:0,24/7 Los Tres Chiflados
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j3DgwbqIJuV8uNiYkhVAG63/ts
-#EXTINF:0,24/7 Puro Teatro
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j32NgYuS2OUkR_G1Ix4iGq0/ts
-#EXTINF:0,24/7 La familia Monster
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j0K2m42ImEDf0Sev5uu4ha4/ts
-#EXTINF:0,24/7 El Chavo del 8
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j2jpWxBPzpnMH_dqm1olBr7/ts
-#EXTINF:0,24/7 El Chapulin Colorado
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j3p27a_ICG-gQPmLhK5uoDI/ts
-#EXTINF:0,24/7 ALF SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j2j1w_GXdHal1hUJmQ2N3lB/ts
 #EXTINF:0,24/7 Chespirito (1982)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j2Xr_11vvzXxFOfKGyKGM_k/ts
 #EXTINF:0,24/7 Chespirito (1984)
@@ -169,16 +122,19 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xVIJvbBiSCkfYFF7nW6IkfsMEW
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xVIJvbBiSCkfYFF7nW6IkcsKbPfd7rnmSkhOR_CyFEk/ts
 #EXTINF:0,24/7 Chespirito (1995)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xVIJvbBiSCkfYFF7nW6IkcfrRt4dIx1ShI-zS0SKL2S/ts
-#EXTINF:0,24/7 El Principe del Rap HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LQEe2JA1WQcJ70QTdvexXcB/ts
-#EXTINF:0,24/7 El Principe del Rap FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LRYV7PyqBv5lqNppH8KWHOg/ts
-#EXTINF:0,24/7 Los locos Addams (1964)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LSBketgL3LVm9UNxbiQI5jc/ts
+#EXTINF:0,24/7 El Chavo del 8
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j2jpWxBPzpnMH_dqm1olBr7/ts
+#EXTINF:0,24/7 El Chapulin Colorado
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j3p27a_ICG-gQPmLhK5uoDI/ts
+#EXTINF:0,24/7 Mr Bean
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4CUCv2dT6dGZSGTe3NdT-o8/ts
+#EXTINF:0,MR BEAN 24/7 - 3391
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3391
+#EXTINF:0,24/7 La India Maria
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4A1hu3Hv0h-WjTOGFF4Jb7-/ts
 #EXTINF:0,24/7 CSI Miami SD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LRypqOwb4q6npSBT1I0UCxy/ts
-#EXTINF:0,24/7 Castle SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LRCJU203nXtQMmvNQG4ZcD8/ts
 #EXTINF:0,24/7 FBI Temp 1
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LQV0TX-ENqbEbWojtCvJy-3/ts
 #EXTINF:0,24/7 FBI Temp 2
@@ -189,12 +145,64 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LT06YR
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LTMyLex9WNL_-ZbbVaQMN-J/ts
 #EXTINF:0,24/7 NCIS Los Angeles Temp 2
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp26ZgwVxBXvOmSm_nqqXCYul/ts
-#EXTINF:0,24/7 Hawaii 5-0 SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp27CJf2RiY9vmeFadYhEULaU/ts
-#EXTINF:0,24/7 Grandes Batallas de la Historia SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp24KCR96Z-9n2mT5rsy3rnBi/ts
 #EXTINF:0,24/7 ER Sala de Urgencias SD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp26qoA6tgSZrerMuwYzGASiD/ts
+#EXTINF:0,24/7 Castle SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LRCJU203nXtQMmvNQG4ZcD8/ts
+#EXTINF:0,24/7 Hawaii 5-0 SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp27CJf2RiY9vmeFadYhEULaU/ts
+#EXTINF:0,24/7 The Big Bang Theory
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j368ATYKvfMLqcTk3roWgYm/ts
+#EXTINF:0,24/7 Puro Teatro
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j32NgYuS2OUkR_G1Ix4iGq0/ts
+#EXTINF:0,24/7 La familia Monster
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j0K2m42ImEDf0Sev5uu4ha4/ts
+#EXTINF:0,24/7 ALF SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j2j1w_GXdHal1hUJmQ2N3lB/ts
+#EXTINF:0,24/7 Caso Cerrado La Familia 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33lIo_hUemYPSmfbHLd-Aqg98UBIqo78A-_H0AqsuG8W/ts
+#EXTINF:0,24/7 Caso Cerrado La Familia 3
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33yMaxW66-Q1z_lxPzKKyp8-DvRPZgkwwXk-_J-9yAu4/ts
+#EXTINF:0,24/7 El Mundo De Beakman Temp 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36dizD8CfByZVCN6xQLhPvR855NfzgUS6Yd1p-TZHFtn/ts
+#EXTINF:0,24/7 El Mundo De Beakman Temp 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33e8TPd7hTNxhUcHKkyVmr6tQFPVbF0hCpP4x5Mqykmy/ts
+#EXTINF:0,24/7 El Mundo De Beakman Temp 3
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MlHaXpXhfo6tzJf9RAyaDo2eVjo9k-ftgRmZpTUNUF/ts
+#EXTINF:0,24/7 El Mundo De Beakman Temp 4
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wkRZUceHjqw274evBy4vpYTd5C0fldOpSusaPGY0nal/ts
+#EXTINF:0,24/7 Laura Bozzo
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3x0e1z9QO4RQxhPdqsWra81jY9PCVXcYlXW_HbpEWOez/ts
+#EXTINF:0,24/7 Lo Que Callamos Las Mujeres
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34DCZ3rY0Upjz-e6k018UxX-G9yQGLqnWNXmVHcLxBCt/ts
+#EXTINF:0,24/7 El Auto Fantastico (2008)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYU5lXG0gFf25JIVZRRDKDt2/ts
+#EXTINF:0,24/7 El Auto Fantastico Temp 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXLu5qnNTRA3flq0ZAyApEY/ts
+#EXTINF:0,24/7 Los Magnificos Temp 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYW770RbYEIM0jV49vpl5zZl/ts
+#EXTINF:0,24/7 MacGyver
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXW7On9yNCgNVTtxc8DF6f9/ts
+#EXTINF:0,24/7 MacGiver (2016) Temp 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXvuODYTntcsuenJ5qC1Tnz/ts
+#EXTINF:0,24/7 MacGiver (2016) Temp 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYXeYP8btr18QTZNlqdsU2sf/ts
+#EXTINF:0,24/7 Baywatch
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYUIBmbCbIIyZEtCKiA9pfPc/ts
+#EXTINF:0,24/7 El Zorro SD (1956)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYVHcPGV1NiI5kLeFKTNATcB/ts
+#EXTINF:0,24/7 Walker Texas Ranger
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYUagAbHEtvySbKaWv9YnDxl/ts
+#EXTINF:0,24/7 Una Familia de Diez
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4DC5bcW7Fj47yVrYK6WpCip/ts
+#EXTINF:0,24/7 El Principe del Rap HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LQEe2JA1WQcJ70QTdvexXcB/ts
+#EXTINF:0,24/7 El Principe del Rap FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LRYV7PyqBv5lqNppH8KWHOg/ts
+#EXTINF:0,24/7 Los locos Addams (1964)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38j9GpOotXQu7zzR1-_V7LSBketgL3LVm9UNxbiQI5jc/ts
+#EXTINF:0,24/7 Grandes Batallas de la Historia SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp24KCR96Z-9n2mT5rsy3rnBi/ts
 #EXTINF:0,24/7 Los Años Maravillosos SD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37KRlmgB9SlxCl98CwkVp2763RYRXA5vIkvi_Mwk75tW/ts
 #EXTINF:0,24/7 La Familia Ingalls
@@ -213,8 +221,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zfR5dtVye0n0JbumUZItOtJMBr
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zfR5dtVye0n0JbumUZItOt-EsdxHSDFA-2WFEo6kszF/ts
 #EXTINF:0,24/7 Historias de Fantasmas SD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zfR5dtVye0n0JbumUZItOtrBk7ecAuhBkAPSaZaALch/ts
-#EXTINF:0,24/7 Oxlack Investigador Paranormal
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zfR5dtVye0n0JbumUZItOuy_yFuMWA2ACNttKKaSws8/ts
 #EXTINF:0,24/7 Contacto Extranormal
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zfR5dtVye0n0JbumUZItOvxd0nexwg7xdW-gcKsCgQL/ts
 #EXTINF:0,24/7 Historias de Ultratumba
@@ -371,8 +377,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K389ljxyDrRC6kaajj5-_1TuxTCl
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K389ljxyDrRC6kaajj5-_1Tvk8NwmMS_Ym9XPINnZo6oS/ts
 #EXTINF:0,24/7 Garfield
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zHMdAwk7rfrKNsX9Lq5MKNFRXXKAFBE-LkRA19d2qil/ts
-#EXTINF:0,24/7 El Chavo del 8 Serie Animada
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zHMdAwk7rfrKNsX9Lq5MKNaAJjlGEyfsqM0BYOV1kGT/ts
 #EXTINF:0,24/7 Los Pitufos
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zHMdAwk7rfrKNsX9Lq5MKNmtoUm7kk3Y2SpqUNB44Yb/ts
 #EXTINF:0,24/7 She-Ra La Princesa del Poder
@@ -431,8 +435,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3823VIyixQ7qkgXKU1n2qSERCuk
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3823VIyixQ7qkgXKU1n2qSEZLiSHzNx8dkNkOpMPDJCH/ts
 #EXTINF:0,24/7 Dora la Exploradora
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xB_iWRfLAudSjUrdg_d7FouOPrwoqfvH0SK3uF108Ju/ts
-#EXTINF:0,24/7 Cantinflas (Animada)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xB_iWRfLAudSjUrdg_d7FqU0Mcu90Qm8m0FwKfV6wxe/ts
 #EXTINF:0,24/7 Beetlejuice
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xB_iWRfLAudSjUrdg_d7FrrfQ-cS08glKc3rO8iZfId/ts
 #EXTINF:0,24/7 Street Sharks
@@ -513,6 +515,54 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39F0emAaym5g56xCA5LXNZxfbP5
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39F0emAaym5g56xCA5LXNZy6wYfYmrUVVNsIuY-0-Ahf/ts
 #EXTINF:0,24/7 Heidi
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39F0emAaym5g56xCA5LXNZyoeE6zAdmDVaQqQ2Yxy933/ts
+#EXTINF:0,24/7 La Familia Peluche
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xoZXmEt2VEXGPp89KaGgYUs_HiXVgHRjW_ujViGRU57/ts
+#EXTINF:0,24/7 La Hora Pico
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4DvLhVvZqLsqh3jMcQv6uVO/ts
+#EXTINF:0,24/7 Los 3 Chiflados
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRlzycJaVeoTPzUKIFdsniA/ts
+#EXTINF:0,24/7 Los Tres Chiflados
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39nNWGhuQbh4aw3mUmZ1-j3DgwbqIJuV8uNiYkhVAG63/ts
+#EXTINF:0,24/7 Un Show Mas
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4BjAlVEpPIHkcJ7-MvvTgKN/ts
+#EXTINF:0,24/7 Paso A Paso Temp 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4B8g0vlBKDRMNAl7SeUW7iZ/ts
+#EXTINF:0,24/7 Paso A Paso Temp 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32p8UX8QIlFrpCFhgSV0k4C2E61pwlb0MhAfMNIiaC9I/ts
+#EXTINF:0,24/7 Porcel Y Olmedo
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSlFJF_nsKSI0zmvF7vXFz3/ts
+#EXTINF:0,24/7 Friends SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRTKYaOX1ZogOn7cye9Y_j-/ts
+#EXTINF:0,24/7 Full House SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZR82UVE9ArlU43MXv-mBEGN/ts
+#EXTINF:0,24/7 Hannah Montana Temp 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRlj9YLtDl8GGxq-iINlj-b/ts
+#EXTINF:0,24/7 Hannah Montana Temp 3
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSKKuxvJeMpmmABuTaI3kBv/ts
+#EXTINF:0,24/7 Hannah Montana Temp 4
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSzjALbi40kKiJLZnx2EzLq/ts
+#EXTINF:0,24/7 Hechizada SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZSo4hBbovfEoSZey9AKQTbE/ts
+#EXTINF:0,24/7 Mi Bella Genio Temp 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZR5A6DbogZz0svklNXZ0_Nh/ts
+#EXTINF:0,24/7 La Niñera Temp 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xByXpHIS2DVuGnmiDroeZRtSGsqFkZ_n6BDNCzrBpi4/ts
+#EXTINF:0,24/7 La Niñera Temp 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw5mLLbo_D5V9lV702p0f8De/ts
+#EXTINF:0,24/7 La Niñera Temp 3
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw7XK4z3x0-F159PzUpyoYa4/ts
+#EXTINF:0,24/7 La Niñera Temp 4
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw6xLSqML46Vzvuk27SFZDAp/ts
+#EXTINF:0,24/7 La Niñera Temp 5
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw5K0H-0Qpnrcphg1LqqWYFf/ts
+#EXTINF:0,24/7 La Niñera Temp 6
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw7CtBS0I28ZsxGHl74pwtaL/ts
+#EXTINF:0,24/7 Lo Mejor de Videomatch
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw7mcc2ERpd9obLED37FipXi/ts
+#EXTINF:0,24/7 Malcolm el de en medio SD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw6MBeSwGFVYfBhijnXOHI-R/ts
+#EXTINF:0,24/7 Sabrina la bruja adolescente Temp 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39WYfP1khNJ3U9QqkPW1dw75astD1R0oxP-Nm_sXGEpY/ts
 #EXTINF:0,24/7 Mi Pequeño Pony
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39F0emAaym5g56xCA5LXNZxdE7lGcFwatsjnL1PqozTg/ts
 #EXTINF:0,24/7 El Super Libro 3D
@@ -677,12 +727,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wJNh1t_tuF0z0sZCj-Aw8HyYFK
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wJNh1t_tuF0z0sZCj-Aw8GzfgHBjjpg42dkGZLhGhRT/ts
 #EXTINF:0,24/7 Soñadoras
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wJNh1t_tuF0z0sZCj-Aw8HExEVdPsscYn_ZDE2_5-FX/ts
-#EXTINF:0,24/7 Alerta Aeropuerto SD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36LDKQWC85Bug1MK6gEvDxJni4DZspkmpXmjV-achvFL/ts
-#EXTINF:0,24/7 1000 Maneras de Morir
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36LDKQWC85Bug1MK6gEvDxJUqSubs6PPb-AjUPmF_xCi/ts
-#EXTINF:0,24/7 Mayday Catastrofes Aereas
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36LDKQWC85Bug1MK6gEvDxLX0P0xu3tPTd1gjkVbrKAE/ts
 #EXTINF:0,24/7 Lo Que Callamos Las Mujeres
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36LDKQWC85Bug1MK6gEvDxKbmeTVPWzm85VtZt4JloWX/ts
 #EXTINF:0,24/7 El Mundo De Beakman SD
@@ -711,96 +755,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31HcEvt72HRiywxuTYa5WMlL5Z6
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31HcEvt72HRiywxuTYa5WMnWPxo2nYWuZhGT3XGD7qNr/ts
 #EXTINF:0,24/7 Just for Laughs
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31HcEvt72HRiywxuTYa5WMnR_y9ou4s4Coa6x3ibpq57/ts
-#EXTINF:0,AME 47
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35K0QeDYaVfLEfKHsCuKH_4ahP-tZ5VEGlnxlVrqyZzl/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 1 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7LmxbgbVNTts6uloLyM0gdd/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 2 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7Kh0Y2CuJInBriuY59e4k0q/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 3 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7IGE-eUewDgTwIUwOHOSoKu/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 4 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7I1Ork6GeJxUS9nPGY_q0sC/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 5 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7JxmuiZw5JVwnIw0EQZhupA/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 6 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7LOq7uhn2-aay9ODHh7ATII/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 7 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7KfcZ9h2yLbwVMUGZTMa5Cp/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 8 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7Jrbyljrfv8CB1G-1ndnHLs/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 9 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZf771wwXHkV7lpEea7sI7_0/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 10 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZeHe0HTwYnp57OKcUUJeWfe/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 11 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZfRdPv8GY_ZuT-8QxlPqSJU/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 12 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdpcUN_-p9TsFxRQAXUaIIP/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 13 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZevF2aWgvDe2an4rUCwy8Vz/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 14 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZf-mFXgBtFYg25iQEX8Rodo/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 15 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdFJn6Qjkw8bWbNvrwzjwJZ/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 16 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZfhvdvJR60iVIazz3PHBkz0/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 17 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdiikmZrqjzRuOIepBKw3dr/ts
-#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 18 FHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdzFt_yl4IyHh-_YXDlOeHn/ts
-#EXTINF:0,ESPAÑA | TAQUILLA 1 ACCION
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-8Nd02y0c1QwElQjt65cpU/ts
-#EXTINF:0,ESPAÑA | TAQUILLA 2 INFANTILES O ANIMACION
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN8VK9F0P6M-k2TyQmH6LVct/ts
-#EXTINF:0,ESPAÑA | TAQUILLA 3 CIENCIA FICCION
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN8Kg_dSdkIqySHcSyHb6gfZ/ts
-#EXTINF:0,ESPAÑA | TAQUILLA 4 CRIMEN
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-5OfmJwhEsfYqmecQZnlMq/ts
-#EXTINF:0,ESPAÑA | TAQUILLA 5 TERROR
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN_OyYCZyEl9E1FIiSGLDZUQ/ts
-#EXTINF:0,ESPAÑA | TAQUILLA 6 DRAMA
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-SIjsihQeA42wVLdm4YW5P/ts
-#EXTINF:0,ESPAÑA | TAQUILLA 7 COMEDIA
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-4guINCwnX7MNt_k4Ju1f7/ts
-#EXTINF:0,PPV MOVIES | TERROR
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO57KL2MaePXurCdaQBGm2FJ/ts
-#EXTINF:0,PPV MOVIES | ACCION Y CLASICAS
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO6UAY47Ri617UWEwpHkFViR/ts
-#EXTINF:0,PPV MOVIES | ACCION
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO6evaBb9Irawhsb2Et4TYn9/ts
-#EXTINF:0,PPV MOVIES | INFANTILES
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO59KVwsifZ9hjpUTafn3CoF/ts
-#EXTINF:0,PPV MOVIES | ROMANCES
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO5QSlb8STQtuae7NyHs0Qcz/ts
-#EXTINF:0,PPV MOVIES | COMEDIA
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA63KDRSzy3dLrOw3-F76INW/ts
-#EXTINF:0,PPV MOVIES | DRAMA
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4mpUFFU-A0JzszIGpN1U8F/ts
-#EXTINF:0,PPV MOVIES | TERROR
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4NdgYA2FISjSguXV9QyGJl/ts
-#EXTINF:0,PPV MOVIES | MARVEL
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA6wXJx9cVbcMLVXoqkpvROL/ts
-#EXTINF:0,PPV MOVIES | SAGAS FANTASIA
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4lALn2GP2rxBqsJA2hOZj4/ts
-#EXTINF:0,PPV MOVIES | ZOMBIES
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA7gw_HCIzGZe0SAZUP9jqY6/ts
-#EXTINF:0,PPV MOVIES | ESTRENOS 2021
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4j2K88kaK3-2DzLQZBNZ22/ts
-#EXTINF:0,CINE PPV LATINOS l 1
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA6bCyM10WV8ODFnF_SesQSH/ts
-#EXTINF:0,CINE PPV LATINOS l 3
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKkvXpRroSHf4Egfyo1tHvCm/ts
-#EXTINF:0,CINE PPV LATINOS l 5
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKkOpTqxU6CbUdWmrImNHgjV/ts
-#EXTINF:0,CINE PPV LATINOS l 6
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKk7InvNJp8VX_2b4bWmT9er/ts
-#EXTINF:0,CINE PPV LATINOS l 7
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKlagOlQJLRM-Ind6U_OHv9q/ts
-#EXTINF:0,CINE PPV LATINOS l 8
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKk6gTmztRz78NstofLhpuKR/ts
-#EXTINF:0,CINE PPV LATINOS l 10
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKlUXzMo2YQEomeF6c7Ki0WT/ts
 #EXTINF:0,Cine TV: A&E (CO)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33wGf-3UKpDzs7GGIZvAc2X9ni0-gX4wAwdG9BbeLmXX/ts
 #EXTINF:0,Cine TV: A&E (MX) ©
@@ -821,12 +775,20 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31O0U1IS1EZ3I9-dWk1PTz3Nffo
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xx7Bdxszq_QJptWr0QzNkJikL1toMTpIx10N8DEwXtG/ts
 #EXTINF:0,Cine TV: Cinema Dinamita
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39rVZc1WL8NVQxOZeAKMR12cvullA7oTIY83tuiLG0M5/ts
+#EXTINF:0,CINE TV: De Pelicula HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35xPq13UD1CLP3Aun3htL_IQbOLguPGv63E3OU-93Lng/ts
 #EXTINF:0,Cine TV: Cinemax (CO)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38xZ8NiI3Q6HjRsnwPBvK0t5neesvTOF8U87hC1sY9kM/ts
 #EXTINF:0,Cine TV: Cinemax (MX)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33C-BCP4DUd9mgimLdy9Qxna3CnbVzCny5R8LFTavYIh/ts
-#EXTINF:0,CINE TV: De Pelicula HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35xPq13UD1CLP3Aun3htL_IQbOLguPGv63E3OU-93Lng/ts
+#EXTINF:0,81 | CINEMAX UHD ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32ehYOND3CXAzigNTt7Z0xCmP7xZDZVHztv1R5d0Hjn5/ts
+#EXTINF:0,CINEMAX HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ibe815BiruZTnwNnFbrFcRuowohCt3jxu2WoDNTxWB/ts
+#EXTINF:0,47 | SPACE ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s87utWegaKO6Zh5Q7L_B3cx/ts
+#EXTINF:0,Cine TV: Space (MX) ©
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39Pygr1XyZxTXOtStxp_XY4D5B2AAq5uEB7cBNZP_PGF/ts
 #EXTINF:0,Cine TV: DHE
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37WcLvn2wcBiFI5q7Qak1NzNHKdwKBEX_hi7i5AH3K_R/ts
 #EXTINF:0,Cine TV: Film And Arts
@@ -835,78 +797,76 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K300BlOUIptyFH5WPmsWrnAK0rtw
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K302aFIZHh9T0s_IOioNyzU__U9tI4id_bxCgrR9NSKwm/ts
 #EXTINF:0,Cine TV: FX HD (MX)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31vMPJyCMdLWfK3ROAONmYj2npM1G2cuvQpC3CZ7lkuC/ts
-#EXTINF:0,Cine TV: Golden Edge (MX) ©
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xk79eWrVW4rWzb-6Xqf8yvte4Xj38XPwfUoQtw6oYS9/ts
+#EXTINF:0,100 | FX MOVIES ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XGDni4niljhUFcqnz5W8Di9/ts
+#EXTINF:0,Cine TV: Golden ©
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yDf8l2Y-vbQOdq6-iLSWitOPd0NuYsSx9kxtHvkbvV7/ts
 #EXTINF:0,Cine TV: Golden Plus (MX)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yBL21B-0HpfSGfYDB8d2jiXFgn2LKn3eZfbMYGQrN1K/ts
 #EXTINF:0,Cine TV: Golden Premier
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wDC9sgOOFPL56bcWte7oGaxF6t3QKE6dxs6n_CMH4Qr/ts
-#EXTINF:0,Cine TV: Golden ©
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yDf8l2Y-vbQOdq6-iLSWitOPd0NuYsSx9kxtHvkbvV7/ts
+#EXTINF:0,Cine TV: Golden Premier 2
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsoAmDJ-v9kl8VuNr_Mc-Cbq/ts
+#EXTINF:0,Cine TV: Golden Edge (MX) ©
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xk79eWrVW4rWzb-6Xqf8yvte4Xj38XPwfUoQtw6oYS9/ts
 #EXTINF:0,Cine TV: HBO HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wDuAEcwtKFiWLkO5vUtBhxpjLd8aRJwE_IxgWhsT9q4/ts
+#EXTINF:0,11 | HBO UHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Uqw2FluI0yG7eQYStdbXQb0/ts
+#EXTINF:0,HBO  HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-uQM1VlVm8sE8NyarnMLKxcZrvyQHV-ZM5LJMteFQeV/ts
 #EXTINF:0,Cine TV: HBO 2 HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35ja5lJpNbL9V1_OeBNY2m_yjRG7dECbx_e8wPitb-sO/ts
-#EXTINF:0,Cine TV: HBO Family HD ©
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xuKXGNR7eVWVZO4pzn4rqBgRjJQ0PGq6RVgaOHypFmH/ts
-#EXTINF:0,Cine TV: HBO Mundi CO
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36XffwcbiyRIKdNK0MNm8e0rfD4zgc4wIY1b9AMSkcqb/ts
+#EXTINF:0,12 | HBO 2 HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UpWYDtDcCiXQsgry9oAn4_I/ts
+#EXTINF:0,27 | HBO 2 ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RshRirtt1D6aO-4VO8cPFse/ts
+#EXTINF:0,HBO  2 HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-uQM1VlVm8sE8NyarnMLKybWfGh8tHBcVx8Dxsoh4EM/ts
 #EXTINF:0,Cine TV: HBO Plus HD ©
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32vpx2GoY2h54jJJtLQ2hMOyaxW86YRl-5PKlwdTsbOv/ts
-#EXTINF:0,Cine TV: HBO Pop
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36s3iWlrsFy1gL1CMYkdZM3p_b-Dh3XUIsAVKdQjBkk7/ts
-#EXTINF:0,Cine TV: HBO Signature
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yhw14FhAqTCRL-cy7INvSW5DElJnAzx0WCfD8OWALbo/ts
+#EXTINF:0,14 | HBO PLUS UHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Uq4kRWrvb95hh11iHsD5zau/ts
+#EXTINF:0,HBO PLUS HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34dCQV161epAnmw4EsLaJy5bth6c7JFC3vLGNs2W3_mB/ts
 #EXTINF:0,Cine TV: HBO Xtreme
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37IZ9USSgroZLeImd6CxZC3Xoi-RqXPP-37My-fHY3Y-/ts
+#EXTINF:0,103 | HBO XTREME ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UosD8G4en6VHF8nOt-xXcKW/ts
+#EXTINF:0,54 | HBO EXTREME ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s8kr_xgnlD6DrrWWzPF7upV/ts
+#EXTINF:0,Cine TV: HBO Signature
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yhw14FhAqTCRL-cy7INvSW5DElJnAzx0WCfD8OWALbo/ts
+#EXTINF:0,Cine TV: HBO Pop
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36s3iWlrsFy1gL1CMYkdZM3p_b-Dh3XUIsAVKdQjBkk7/ts
+#EXTINF:0,Cine TV: HBO Family HD ©
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xuKXGNR7eVWVZO4pzn4rqBgRjJQ0PGq6RVgaOHypFmH/ts
+#EXTINF:0,13 | HBO FAMILY UHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Upnd_by7cUQtlS28v_AtiQC/ts
+#EXTINF:0,HBO FAMILY HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xpllZH-LMTCy2-Jev2wKLzrLJvPXor89SVSeTxlnt__/ts
+#EXTINF:0,HBO COMEDY HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34dCQV161epAnmw4EsLaJy6gFRuA3RxttZ1G_uBfslvm/ts
+#EXTINF:0,Cine TV: HBO Mundi CO
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36XffwcbiyRIKdNK0MNm8e0rfD4zgc4wIY1b9AMSkcqb/ts
+#EXTINF:0,MP MULTI PREMIER - 70
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/70
+#EXTINF:0,AME - 131872
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131872
 #EXTINF:0,Cine TV: ISat
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38IrSnBPjAiFric5ivGlIFSkM4FALOu0PoIM87W6QqBV/ts
 #EXTINF:0,Cine TV: Panico HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3_UgNvtig8gE2Or9SUoE2yhlqmtKxV6IiVdNND1bqIO9/ts
 #EXTINF:0,Cine TV: Paramount Channel (MX)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30wBdTs1c04ueHt8jjrvnBBhCuQfDhPAU-XR3WSK36IJ/ts
+#EXTINF:0,CINE TV: Paramount Channel FHD (CO)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30UXCzrn8P8LFAO3UM06DtkdA4g3d2oQmX3R44uoO5uV/ts
 #EXTINF:0,Cine TV: Sony (CO) ©
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3x-KekIGXg0QzlcuIv6CeCUfQIShdrVn-TiIetP1xwQ1/ts
 #EXTINF:0,Cine TV: Sony MX
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39T49OhvLCkfJ70r_deU_dQt-qjHlIzBcv2UChB5_qGO/ts
-#EXTINF:0,Cine TV: Space (MX) ©
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39Pygr1XyZxTXOtStxp_XY4D5B2AAq5uEB7cBNZP_PGF/ts
-#EXTINF:0,Cine TV: Sr Cine 60fps Acción HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3_Dez-qh-sxDRva-Zknm1pSX4WpnxfeSojB9kWLD6VnW/ts
-#EXTINF:0,Cine TV: Sr Cine Brujas HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36Gx9ptIuP77OIsRlMyD2TpDJ-_ZDhN-26V29UsQSsrj/ts
-#EXTINF:0,Cine TV: Sr Cine DC Comics HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36SQJqMsAbIINsIl0swOg39DRTJ5jO5eg3t4WWPDzcLj/ts
-#EXTINF:0,Cine TV: Sr Cine DC Film HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38GWMTrG3yShP8_ZpBwCyDkbx_eAzWE1-_AfpNzOQvWV/ts
-#EXTINF:0,Cine TV: Sr Cine Dioses HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37sNAfgdt1JXXz8GEYjF_3MdrdYEj9a8Eu5dNk7Hzygw/ts
-#EXTINF:0,Cine TV: Sr Cine Extraterrestres HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zGI1QfeVjxNZNyeB4zsI1ROQUbmKBNxyuq709WRyXRV/ts
-#EXTINF:0,Cine TV: Sr Cine Gigantes HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38f0NANqKvJngUd5l0RcLgxXUiz3SZT3P9w14FUK0DLy/ts
-#EXTINF:0,Cine TV: Sr Cine LEGO HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34SuA-4F8oZBUxLQvTrF3YZGysJI5QpxI0I55esNOxdD/ts
-#EXTINF:0,Cine TV: Sr Cine Marvel Studios Animado HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31jfdoXHeASu6Y_zvHQSFAXHz9I59QXCtRcqNH_TFsih/ts
-#EXTINF:0,Cine TV: Sr Cine Marvel Studios HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30qqqYYwEQr_qsgoFSEb6KLN-C1lWCXw6lBFMPpQ6Q4N/ts
-#EXTINF:0,Cine TV: Sr Cine Momias HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32tMqTxY_dr2AAQ9ei1q6L0UiDWJUeAPcr2BtwOCFx2b/ts
-#EXTINF:0,Cine TV: Sr Cine Navidad Caricaturas HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3ytgiMwiRSAxCa3EcGoBvaOZF2BvFs_Rkl8BJqUeOOyu/ts
-#EXTINF:0,Cine TV: Sr Cine Navidad Familiar HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30q5ZVYGA4fs4WzO3zpCGqyHYDrGkVy7BywD6lExxbuy/ts
-#EXTINF:0,Cine TV: Sr Cine Robots HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zixy4O_N-ioNjaHUbpBiFssTIE_3vj4GP30Alt-sOyw/ts
-#EXTINF:0,Cine TV: Sr Cine Studio Ghibli HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K341Mf87dRCYjLAtw4XfjG55K8j7Ab-UUwVz73DfM5CWS/ts
-#EXTINF:0,Cine TV: Sr Cine Vampiros HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32cBP_xjVGktpHSSCnCULUFs_0ARjK5HIcCcwKCCqJEE/ts
-#EXTINF:0,Cine TV: Sr Cine Zombies HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xhRdUDoHuV4wozavjLwhILhvrE_XXhpXu1uyr97UxGi/ts
-#EXTINF:0,Cine TV: Studio Universal MX
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yBavVLdNQcFT5_lcCHpm0DfyZuzaCQ4UtRHEXRDqHcr/ts
 #EXTINF:0,Cine TV: SyFy MX
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36Hsbaxd0lI4IKYamd1HbHVqzbcZWCcRM7bQAotvZFSQ/ts
 #EXTINF:0,Cine TV: TCM
@@ -919,12 +879,20 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30_wtUf4Pi1t4PjiQpbr2ysv0HR
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-5B2g5UVuH5uudvh4gcePcQzBzehrQ-Dw6LQz5ydTxq/ts
 #EXTINF:0,Cine TV: TNT Series HD (CO) ©
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3_gHfXM5XeIk657-zoD57ZWfyl4kFpZNJFYrGRbJ_iet/ts
-#EXTINF:0,Cine TV: Universal Channel (MX)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xOtJBUSfXL-747WQT72yWN86hlCd1whUmGVIBvyK9y4/ts
 #EXTINF:0,Cine TV: Warner Channel (CO)
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K360l3iVyuTJNsD2cC03StQtjD3jN-LUnyEa2IUZ2oWzK/ts
+#EXTINF:0,Cine TV: Warner Channel (MX)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35F5lCcb5v8SMS6OIep3PZdvRAnRnofjBTFrDzzTzbV6/ts
+#EXTINF:0,Cine TV: Studio Universal MX
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yBavVLdNQcFT5_lcCHpm0DfyZuzaCQ4UtRHEXRDqHcr/ts
+#EXTINF:0,Cine TV: STUDIO UNIVERSAL
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37LRBcEK0sQ71ZuIYuw_GfiDIurn9YOmynPDwOe3dZ2N/ts
 #EXTINF:0,Cine TV: UNIVERSAL
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yMboTbQqT4xeXD0vD7fyEosWlaQLLtFaciDuTuBzMCJ/ts
+#EXTINF:0,Cine TV: Universal Channel (CO)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30UXCzrn8P8LFAO3UM06Dtm7wZ4Uq9vuvgrYVWBAP2f9/ts
+#EXTINF:0,Cine TV: Universal Channel (MX)
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xOtJBUSfXL-747WQT72yWN86hlCd1whUmGVIBvyK9y4/ts
 #EXTINF:0,Cine TV: UNIVERSAL REALITY
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yMboTbQqT4xeXD0vD7fyEp-TF--g4HwgPepFlTGxQvx/ts
 #EXTINF:0,Cine TV: UNIVERSAL CINEMA
@@ -933,103 +901,46 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yMboTbQqT4xeXD0vD7fyErY_WD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37LRBcEK0sQ71ZuIYuw_GfhYNr9dAIvmFZmYEagVIj3s/ts
 #EXTINF:0,Cine TV: UNIVERSAL PREMIERE
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37LRBcEK0sQ71ZuIYuw_Gfh2GrDAidSJijYonx3xfDFQ/ts
-#EXTINF:0,Cine TV: STUDIO UNIVERSAL
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37LRBcEK0sQ71ZuIYuw_GfiDIurn9YOmynPDwOe3dZ2N/ts
 #EXTINF:0,Cine TV: UNIVERSAL CRIME
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37LRBcEK0sQ71ZuIYuw_GfiGMsRAwt48w2s2YICvwqiM/ts
-#EXTINF:0,CINE TV: SThttp://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30UXCzrn8P8LFAO3UM06Dtk1EVjJOaYRB0gEM3Ofh87e/ts
-#EXTINF:0,CINE TV: Paramount Channel FHD (CO)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30UXCzrn8P8LFAO3UM06DtkdA4g3d2oQmX3R44uoO5uV/ts
-#EXTINF:0,Cine TV: Universal Channel (CO)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30UXCzrn8P8LFAO3UM06Dtm7wZ4Uq9vuvgrYVWBAP2f9/ts
-#EXTINF:0,Cine TV: Warner Channel (MX)
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35F5lCcb5v8SMS6OIep3PZdvRAnRnofjBTFrDzzTzbV6/ts
-#EXTINF:0,Cine TV: Planeta TV Movies
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsrLqSvmvWR5swrllfnGSAgK/ts
-#EXTINF:0,Cine TV: Golden Premier 2
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsoAmDJ-v9kl8VuNr_Mc-Cbq/ts
 #EXTINF:0,01 | STAR CHANNEL UHD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XHlgb_LvbhbfMufLZ099ADJ/ts
-#EXTINF:0,02 | STAR ACTION UHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XFplKreJkVuB0XFpM60ZYuV/ts
 #EXTINF:0,03 | STAR CHANNEL UHD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XGVsXOpQml98knSjWZMxyMB/ts
+#EXTINF:0,02 | STAR ACTION UHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XFplKreJkVuB0XFpM60ZYuV/ts
+#EXTINF:0,06 | STAR MOVIE UHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XEWkkakw-e_Voh9PG07uWs2/ts
 #EXTINF:0,04 | STAR COMEDY UHD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XHtOYdEHq3XTsYSc13BL1nH/ts
 #EXTINF:0,05 | STAR FAMILY UHD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XGKWhdZhVDHf4-idHlu-qUh/ts
-#EXTINF:0,06 | STAR MOVIE UHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XEWkkakw-e_Voh9PG07uWs2/ts
-#EXTINF:0,07 | ATRESERIES UHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XGYhUbIWDuFtsxyfaxOLP83/ts
-#EXTINF:0,100 | FX MOVIES ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XGDni4niljhUFcqnz5W8Di9/ts
 #EXTINF:0,101 | STAR FUN ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XEveKoIY9MOTSCzYCqi102W/ts
-#EXTINF:0,103 | HBO XTREME ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UosD8G4en6VHF8nOt-xXcKW/ts
-#EXTINF:0,104 | HISTORY 2 ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UoEmbshL5fwhNgDfA4IAAbh/ts
-#EXTINF:0,105 | TEEN NICK ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Upnj8_6Mxv8LRXsTXuKUdDJ/ts
-#EXTINF:0,108 | UNIMAS ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UpviY8UyNQlhMNL0JqbanAO/ts
-#EXTINF:0,11 | HBO UHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Uqw2FluI0yG7eQYStdbXQb0/ts
-#EXTINF:0,110 | UNIMAS MIAMI ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UoujDUs15B02BpCHj2H8Axn/ts
-#EXTINF:0,111 | UNIMAS NEW YORK
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Uo80aKXArpJm5pBUne--hyF/ts
-#EXTINF:0,12 | HBO 2 HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UpWYDtDcCiXQsgry9oAn4_I/ts
-#EXTINF:0,13 | HBO FAMILY UHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Upnd_by7cUQtlS28v_AtiQC/ts
-#EXTINF:0,14 | HBO PLUS UHD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Uq4kRWrvb95hh11iHsD5zau/ts
+#EXTINF:0,Cine TV: Planeta TV Movies
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsrLqSvmvWR5swrllfnGSAgK/ts
 #EXTINF:0,18 | TNT UHD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RutS3_JDRvVPFnnND7gB8d1/ts
 #EXTINF:0,19 | TNT SERIES UHD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RtxrIiovsA4M5kC1OfE3DqK/ts
-#EXTINF:0,20 | NATGEO®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RsfDjzOtPHhNlEvC_ikjq4Z/ts
-#EXTINF:0,21 | ANIMAL PLANET HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RvxrSc2RjKFZCVmpIfh91Ky/ts
 #EXTINF:0,22 | AXN®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RupuDcxyWwXKs5zTENmSwyf/ts
-#EXTINF:0,24 | CARTOON NETWORK ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RsvOAg1tE9abRh3IY0C2ewC/ts
 #EXTINF:0,25 | CINE CANAL ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RuGT_gg982sgYWVlGF4FWpP/ts
 #EXTINF:0,26 | COMEDY CENTRAL ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RukPomPxyhs5SBAxKuCDPht/ts
-#EXTINF:0,27 | HBO 2 ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RshRirtt1D6aO-4VO8cPFse/ts
-#EXTINF:0,28 | DISCOVERY CHANNEL®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RvN9njAxv0GaHWvHj6vVP71/ts
-#EXTINF:0,30 | DISCOVERY H&H ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ4Ws0tNqAehGTGsnjHRfTbN/ts
 #EXTINF:0,31 | DISCOVERY ID ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ76rUZnH6QMMqHG4slgbDBe/ts
-#EXTINF:0,33 | DISCOVERY SCIENCE ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ4QLzk26UzfH5yoNgoHIbAh/ts
-#EXTINF:0,35 | DISCOVERY WORLD ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ6JwABAZwAufj3-6ycjrw8m/ts
 #EXTINF:0,42 | FXM ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ6wueymry_C8OphKB1sM2Ui/ts
-#EXTINF:0,43 | HISTORY ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ4ZOXE6CuWR3FH448td2lFm/ts
 #EXTINF:0,44 | PARAMOUNT MX UHD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ5YiGrYD4le61eTrkQHtPUQ/ts
 #EXTINF:0,46 | SONY ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s-N4qdHdvJSu_0GLxQzJ-Va/ts
-#EXTINF:0,47 | SPACE ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s87utWegaKO6Zh5Q7L_B3cx/ts
 #EXTINF:0,48 | STUDIO UNIVERSAL ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s8alz9BQi4KFU4IiTNRZQ_P/ts
 #EXTINF:0,52 | WARNER ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s_38Rz0hHqz0nYvCrYWEZut/ts
-#EXTINF:0,54 | HBO EXTREME ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s8kr_xgnlD6DrrWWzPF7upV/ts
 #EXTINF:0,56 | FX ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s_rrf2cpl6bgwOyVLx1VNgE/ts
 #EXTINF:0,57 | H2  UHD
@@ -1038,20 +949,12 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s923aH
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s-l5rkGWymnybPan-1W_djd/ts
 #EXTINF:0,59 | A&E ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zNs_CIFCOEi2PLEpOYi0s_batM2oxa0shCy3fkUishv/ts
-#EXTINF:0,63 | TELEMUNDO ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32ehYOND3CXAzigNTt7Z0xCNbC9kz5yCZ3mFOYUHdgRl/ts
 #EXTINF:0,79 | STAR LIFE HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32ehYOND3CXAzigNTt7Z0xCjF0oj2gkLXizjLmLjOtmt/ts
-#EXTINF:0,81 | CINEMAX UHD ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32ehYOND3CXAzigNTt7Z0xCmP7xZDZVHztv1R5d0Hjn5/ts
 #EXTINF:0,84 | GOLDEN UHD®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32ehYOND3CXAzigNTt7Z0xAwLgBLRn_pMU7wcB-5cQY1/ts
 #EXTINF:0,87 | STAR CLASSIC UHD®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33DUXObsaX1o5VXnf1GLq9Ckyd-nYfa98vTQiQ_MgKaD/ts
-#EXTINF:0,89 | TNT SPORTS UHD ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33DUXObsaX1o5VXnf1GLq9ALaHxv2ECt9gAW0Se68koy/ts
-#EXTINF:0,90 | TYC SPORTS UHD ®
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33DUXObsaX1o5VXnf1GLq9B4s345TItR3q_YFy6H5Bla/ts
 #EXTINF:0,91 | CNN INTERNATIONAL UHD ®
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33DUXObsaX1o5VXnf1GLq9DNiuxcwtJjwLKp00sleuye/ts
 #EXTINF:0,99 | STAR HITS ®
@@ -1064,16 +967,8 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33DUXObsaX1o5VXnf1GLq9DUf4L
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xpllZH-LMTCy2-Jev2wKLyv8k9eLNcCzpXsLU0AgBJ5/ts
 #EXTINF:0,GOLDEN HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xpllZH-LMTCy2-Jev2wKLxkdQRelm6Im-ZzAPhwBKmU/ts
-#EXTINF:0,HBO FAMILY HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xpllZH-LMTCy2-Jev2wKLzrLJvPXor89SVSeTxlnt__/ts
-#EXTINF:0,HBO PLUS HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34dCQV161epAnmw4EsLaJy5bth6c7JFC3vLGNs2W3_mB/ts
-#EXTINF:0,HBO COMEDY HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34dCQV161epAnmw4EsLaJy6gFRuA3RxttZ1G_uBfslvm/ts
 #EXTINF:0,NBC UNIVERSO  HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ibe815BiruZTnwNnFbrFd4GKNFud8HjdOaNeXnRc-l/ts
-#EXTINF:0,CINEMAX HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ibe815BiruZTnwNnFbrFcRuowohCt3jxu2WoDNTxWB/ts
 #EXTINF:0,A&E HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ibe815BiruZTnwNnFbrFd2weDgPQZC5Y_9tWuapK2O/ts
 #EXTINF:0,AMC HD
@@ -1092,10 +987,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ibe815BiruZTnwNnFbrFf7evn
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ibe815BiruZTnwNnFbrFe8cF761dbRfh1EqGPr79eo/ts
 #EXTINF:0,GOLDEN PLUS HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-uQM1VlVm8sE8NyarnMLKxXIi2tfBqFt-Bpz4XPDos1/ts
-#EXTINF:0,HBO  2 HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-uQM1VlVm8sE8NyarnMLKybWfGh8tHBcVx8Dxsoh4EM/ts
-#EXTINF:0,HBO  HD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-uQM1VlVm8sE8NyarnMLKxcZrvyQHV-ZM5LJMteFQeV/ts
 #EXTINF:0,LIFETIME HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-uQM1VlVm8sE8NyarnMLKxc14Tr1bYMvELuv6Ed9Lez/ts
 #EXTINF:0,SPACE  HD
@@ -1116,6 +1007,38 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33k5Up7KWLQoPA2GbJstyldzDrq
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33k5Up7KWLQoPA2GbJstyleZ4QidN_05EsaMKRRwQeBf/ts
 #EXTINF:0,ANIMAL PLANET HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33k5Up7KWLQoPA2GbJstylelDoBkHChauoxxstqHvnCj/ts
+#EXTINF:0,104 | HISTORY 2 ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UoEmbshL5fwhNgDfA4IAAbh/ts
+#EXTINF:0,105 | TEEN NICK ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Upnj8_6Mxv8LRXsTXuKUdDJ/ts
+#EXTINF:0,108 | UNIMAS ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UpviY8UyNQlhMNL0JqbanAO/ts
+#EXTINF:0,110 | UNIMAS MIAMI ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6UoujDUs15B02BpCHj2H8Axn/ts
+#EXTINF:0,111 | UNIMAS NEW YORK
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30ASwW_cw5z8Bg6J7t4q6Uo80aKXArpJm5pBUne--hyF/ts
+#EXTINF:0,20 | NATGEO®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RsfDjzOtPHhNlEvC_ikjq4Z/ts
+#EXTINF:0,21 | ANIMAL PLANET HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RvxrSc2RjKFZCVmpIfh91Ky/ts
+#EXTINF:0,24 | CARTOON NETWORK ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RsvOAg1tE9abRh3IY0C2ewC/ts
+#EXTINF:0,28 | DISCOVERY CHANNEL®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30zrciWT-ujcAMErOD0j9RvN9njAxv0GaHWvHj6vVP71/ts
+#EXTINF:0,30 | DISCOVERY H&H ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ4Ws0tNqAehGTGsnjHRfTbN/ts
+#EXTINF:0,33 | DISCOVERY SCIENCE ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ4QLzk26UzfH5yoNgoHIbAh/ts
+#EXTINF:0,35 | DISCOVERY WORLD ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ6JwABAZwAufj3-6ycjrw8m/ts
+#EXTINF:0,43 | HISTORY ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33ZmHdxcQF4W1ttlWIVqnJ4ZOXE6CuWR3FH448td2lFm/ts
+#EXTINF:0,63 | TELEMUNDO ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32ehYOND3CXAzigNTt7Z0xCNbC9kz5yCZ3mFOYUHdgRl/ts
+#EXTINF:0,89 | TNT SPORTS UHD ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33DUXObsaX1o5VXnf1GLq9ALaHxv2ECt9gAW0Se68koy/ts
+#EXTINF:0,90 | TYC SPORTS UHD ®
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33DUXObsaX1o5VXnf1GLq9B4s345TItR3q_YFy6H5Bla/ts
 #EXTINF:0,DISCOVERY WORLD HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33k5Up7KWLQoPA2GbJstylczObWNM51wydkw_Wccq05U/ts
 #EXTINF:0,DISCOVERY CHANNEL HD
@@ -1170,6 +1093,130 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32D6LGBaZeuMrLk-kj2sb60KZXS
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32D6LGBaZeuMrLk-kj2sb63TGueSKxOdYPSlV8zngpsI/ts
 #EXTINF:0,Cine Tv : MOVIE CLUB HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3w3PGkuD-tg29kuU6zAKQWhS8TFp1o2gBXgyovyKTQMg/ts
+#EXTINF:0,07 | ATRESERIES UHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33dP5nX4M5xw7ngWf8PC6XGYhUbIWDuFtsxyfaxOLP83/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 1 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7LmxbgbVNTts6uloLyM0gdd/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 2 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7Kh0Y2CuJInBriuY59e4k0q/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 3 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7IGE-eUewDgTwIUwOHOSoKu/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 4 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7I1Ork6GeJxUS9nPGY_q0sC/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 5 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7JxmuiZw5JVwnIw0EQZhupA/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 6 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7LOq7uhn2-aay9ODHh7ATII/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 7 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7KfcZ9h2yLbwVMUGZTMa5Cp/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 8 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K392h8OsJ-m_QqIJrXx2Jt7Jrbyljrfv8CB1G-1ndnHLs/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 9 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZf771wwXHkV7lpEea7sI7_0/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 10 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZeHe0HTwYnp57OKcUUJeWfe/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 11 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZfRdPv8GY_ZuT-8QxlPqSJU/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 12 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdpcUN_-p9TsFxRQAXUaIIP/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 13 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZevF2aWgvDe2an4rUCwy8Vz/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 14 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZf-mFXgBtFYg25iQEX8Rodo/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 15 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdFJn6Qjkw8bWbNvrwzjwJZ/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 16 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZfhvdvJR60iVIazz3PHBkz0/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 17 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdiikmZrqjzRuOIepBKw3dr/ts
+#EXTINF:0,ESPAÑA | MOVISTAR ALQUILER 18 FHD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31MDdBDLQMSL_A97jazcWZdzFt_yl4IyHh-_YXDlOeHn/ts
+#EXTINF:0,ESPAÑA | TAQUILLA 1 ACCION
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-8Nd02y0c1QwElQjt65cpU/ts
+#EXTINF:0,ESPAÑA | TAQUILLA 2 INFANTILES O ANIMACION
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN8VK9F0P6M-k2TyQmH6LVct/ts
+#EXTINF:0,ESPAÑA | TAQUILLA 3 CIENCIA FICCION
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN8Kg_dSdkIqySHcSyHb6gfZ/ts
+#EXTINF:0,ESPAÑA | TAQUILLA 4 CRIMEN
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-5OfmJwhEsfYqmecQZnlMq/ts
+#EXTINF:0,ESPAÑA | TAQUILLA 5 TERROR
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN_OyYCZyEl9E1FIiSGLDZUQ/ts
+#EXTINF:0,ESPAÑA | TAQUILLA 6 DRAMA
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-SIjsihQeA42wVLdm4YW5P/ts
+#EXTINF:0,ESPAÑA | TAQUILLA 7 COMEDIA
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yGMuv2i2wkrU1NL3mSNdN-4guINCwnX7MNt_k4Ju1f7/ts
+#EXTINF:0,PPV MOVIES | TERROR
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO57KL2MaePXurCdaQBGm2FJ/ts
+#EXTINF:0,PPV MOVIES | TERROR
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4NdgYA2FISjSguXV9QyGJl/ts
+#EXTINF:0,PPV MOVIES | ACCION Y CLASICAS
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO6UAY47Ri617UWEwpHkFViR/ts
+#EXTINF:0,PPV MOVIES | ACCION
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO6evaBb9Irawhsb2Et4TYn9/ts
+#EXTINF:0,PPV MOVIES | INFANTILES
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO59KVwsifZ9hjpUTafn3CoF/ts
+#EXTINF:0,PPV MOVIES | ROMANCES
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wicv-DXalWIH8k0ESFWBO5QSlb8STQtuae7NyHs0Qcz/ts
+#EXTINF:0,PPV MOVIES | COMEDIA
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA63KDRSzy3dLrOw3-F76INW/ts
+#EXTINF:0,PPV MOVIES | DRAMA
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4mpUFFU-A0JzszIGpN1U8F/ts
+#EXTINF:0,PPV MOVIES | MARVEL
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA6wXJx9cVbcMLVXoqkpvROL/ts
+#EXTINF:0,PPV MOVIES | SAGAS FANTASIA
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4lALn2GP2rxBqsJA2hOZj4/ts
+#EXTINF:0,PPV MOVIES | ZOMBIES
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA7gw_HCIzGZe0SAZUP9jqY6/ts
+#EXTINF:0,PPV MOVIES | ESTRENOS 2021
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA4j2K88kaK3-2DzLQZBNZ22/ts
+#EXTINF:0,CINE PPV LATINOS l 1
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32xLkuRJv05WhAzBKop6aA6bCyM10WV8ODFnF_SesQSH/ts
+#EXTINF:0,CINE PPV LATINOS l 3
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKkvXpRroSHf4Egfyo1tHvCm/ts
+#EXTINF:0,CINE PPV LATINOS l 5
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKkOpTqxU6CbUdWmrImNHgjV/ts
+#EXTINF:0,CINE PPV LATINOS l 6
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKk7InvNJp8VX_2b4bWmT9er/ts
+#EXTINF:0,CINE PPV LATINOS l 7
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKlagOlQJLRM-Ind6U_OHv9q/ts
+#EXTINF:0,CINE PPV LATINOS l 8
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKk6gTmztRz78NstofLhpuKR/ts
+#EXTINF:0,CINE PPV LATINOS l 10
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wWc89beFd_j84JjIef6PKlUXzMo2YQEomeF6c7Ki0WT/ts
+#EXTINF:0,Cine TV: Sr Cine 60fps Acción HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3_Dez-qh-sxDRva-Zknm1pSX4WpnxfeSojB9kWLD6VnW/ts
+#EXTINF:0,Cine TV: Sr Cine Brujas HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36Gx9ptIuP77OIsRlMyD2TpDJ-_ZDhN-26V29UsQSsrj/ts
+#EXTINF:0,Cine TV: Sr Cine DC Comics HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36SQJqMsAbIINsIl0swOg39DRTJ5jO5eg3t4WWPDzcLj/ts
+#EXTINF:0,Cine TV: Sr Cine DC Film HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38GWMTrG3yShP8_ZpBwCyDkbx_eAzWE1-_AfpNzOQvWV/ts
+#EXTINF:0,Cine TV: Sr Cine Dioses HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K37sNAfgdt1JXXz8GEYjF_3MdrdYEj9a8Eu5dNk7Hzygw/ts
+#EXTINF:0,Cine TV: Sr Cine Extraterrestres HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zGI1QfeVjxNZNyeB4zsI1ROQUbmKBNxyuq709WRyXRV/ts
+#EXTINF:0,Cine TV: Sr Cine Gigantes HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38f0NANqKvJngUd5l0RcLgxXUiz3SZT3P9w14FUK0DLy/ts
+#EXTINF:0,Cine TV: Sr Cine LEGO HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34SuA-4F8oZBUxLQvTrF3YZGysJI5QpxI0I55esNOxdD/ts
+#EXTINF:0,Cine TV: Sr Cine Marvel Studios Animado HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31jfdoXHeASu6Y_zvHQSFAXHz9I59QXCtRcqNH_TFsih/ts
+#EXTINF:0,Cine TV: Sr Cine Marvel Studios HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30qqqYYwEQr_qsgoFSEb6KLN-C1lWCXw6lBFMPpQ6Q4N/ts
+#EXTINF:0,Cine TV: Sr Cine Momias HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32tMqTxY_dr2AAQ9ei1q6L0UiDWJUeAPcr2BtwOCFx2b/ts
+#EXTINF:0,Cine TV: Sr Cine Navidad Caricaturas HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3ytgiMwiRSAxCa3EcGoBvaOZF2BvFs_Rkl8BJqUeOOyu/ts
+#EXTINF:0,Cine TV: Sr Cine Navidad Familiar HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K30q5ZVYGA4fs4WzO3zpCGqyHYDrGkVy7BywD6lExxbuy/ts
+#EXTINF:0,Cine TV: Sr Cine Robots HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zixy4O_N-ioNjaHUbpBiFssTIE_3vj4GP30Alt-sOyw/ts
+#EXTINF:0,Cine TV: Sr Cine Studio Ghibli HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K341Mf87dRCYjLAtw4XfjG55K8j7Ab-UUwVz73DfM5CWS/ts
+#EXTINF:0,Cine TV: Sr Cine Vampiros HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K32cBP_xjVGktpHSSCnCULUFs_0ARjK5HIcCcwKCCqJEE/ts
+#EXTINF:0,Cine TV: Sr Cine Zombies HD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xhRdUDoHuV4wozavjLwhILhvrE_XXhpXu1uyr97UxGi/ts
 #EXTINF:0,PE: ATV
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xli_qcvNmAruaWd27bZfK0fykRDmJ4Pe7AuuGi8Kz4t/ts
 #EXTINF:0,PE: Tv Peru HD
@@ -1328,14 +1375,36 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wSE1yJ1_OLmKc0H78e47TFVKph
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wSE1yJ1_OLmKc0H78e47TF97K8C-3GNCFLseNEeQF05/ts
 #EXTINF:0,Cristianos TV: Alcance TV
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3_osSz-LoeoEgnx6QDjk62p8b6mFSmPWcnZ4poEGuvuP/ts
+#EXTINF:0,Cristianos TV: LOGOS TV
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08te4Ocm2LXSOJbxo42dIhxu/ts
+#EXTINF:0,Cristianos TV: LOGOS TV SALUD
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08tj7NDHAjRATzGPaY4p9urX/ts
+#EXTINF:0,Cristianos TV: LOGOS TV ESTUDIO
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08tMpI_ERWqtBCczyClEKKUj/ts
+#EXTINF:0,Cristianos TV: LOGOS TV KIDS
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08sUhOAOtkm7hQLSPhvLpGxR/ts
+#EXTINF:0,PA: HOSANNA VISION
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yDO5ZVF0tJR0J9fdir6DXl2O6vR-p3nSC9MOJfBtzx9/ts
+#EXTINF:0,SLV: TAVER TV
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wAesCQAcgyOkgFrDzqCkGx0KbfzBrw2uEt_gJjy7lQC/ts
+#EXTINF:0,SLV: ALIENTO VISION
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zRNiOOy9GBKID836L3AI-qrkKEgvej3Gcebe8IoBQDD/ts
+#EXTINF:0,SLV: TV CRET
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zRNiOOy9GBKID836L3AI-oci9d9xDZPAbBIVapQAy-Q/ts
+#EXTINF:0,SLV: GETSEMANI
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zRNiOOy9GBKID836L3AI-qxiLquiPPj5GjHIjMAWUCL/ts
+#EXTINF:0,CR: Esperanza TV
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33GdeAWrgJ8_br-pXTSdVDYAhzLc50xaMUJJrJtwb_vO/ts
+#EXTINF:0,CR: Extrema TV
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33GdeAWrgJ8_br-pXTSdVDa-jdY3M99uIER9a0yCew-8/ts
+#EXTINF:0,EC: Canela Tv
+http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xs2kiDt5png-4oX5wNZRrPa1QomPuxmDiDG9DroF1gp/ts
 #EXTINF:0,HN: EBENEZER
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-OOBvM2M45nSbm8dYyYE9Ze4rKKTD79t4I91D-GWuYP/ts
 #EXTINF:0,HN: JBN INTERNACIONAL
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-OOBvM2M45nSbm8dYyYE9b_l3h22OoMdeyhhxMXZWFD/ts
 #EXTINF:0,HN: ALFA & OMEGA VISION
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K36jo6cOPRLxr8PBGbcz6hH-EqbWygodMXIZloxZJYmK4/ts
-#EXTINF:0,PA: HOSANNA VISION
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yDO5ZVF0tJR0J9fdir6DXl2O6vR-p3nSC9MOJfBtzx9/ts
 #EXTINF:0,VE: CINEVISION 19
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34_-Qgdb3l7CYvxVHKT1I2uNkfa5GfDKAtiMxhLOQFmO/ts
 #EXTINF:0,VE: TelesuR
@@ -1440,14 +1509,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33uHdG2wLdh8FKYxG6L_uRE6Kfp
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38wBpd-6gsczDEhauO_c2Jf9zC_GA2oBaoMW-Ho0DXYR/ts
 #EXTINF:0,CUL: Universo West Full HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38wBpd-6gsczDEhauO_c2JfrY3OdP1ey2DQQjO---hQU/ts
-#EXTINF:0,SLV: TAVER TV
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wAesCQAcgyOkgFrDzqCkGx0KbfzBrw2uEt_gJjy7lQC/ts
-#EXTINF:0,SLV: ALIENTO VISION
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zRNiOOy9GBKID836L3AI-qrkKEgvej3Gcebe8IoBQDD/ts
-#EXTINF:0,SLV: TV CRET
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zRNiOOy9GBKID836L3AI-oci9d9xDZPAbBIVapQAy-Q/ts
-#EXTINF:0,SLV: GETSEMANI
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zRNiOOy9GBKID836L3AI-qxiLquiPPj5GjHIjMAWUCL/ts
 #EXTINF:0,CO: RCN Internacional
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zRNiOOy9GBKID836L3AI-qI9huCgmsgc4WMW5c9ym5q/ts
 #EXTINF:0,CO: RCN Full HD
@@ -1480,12 +1541,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zUci39kOJuQoRthpdlBMGeVZaa
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33qZ9kxSSQZ4zFGSxfuOp8CY1i_kg9f36MEBhZ0WRDG9/ts
 #EXTINF:0,CR: Norte Informativo
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33qZ9kxSSQZ4zFGSxfuOp8CgxGYWviVGH6hk8SNEbdj7/ts
-#EXTINF:0,CR: Esperanza TV
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33GdeAWrgJ8_br-pXTSdVDYAhzLc50xaMUJJrJtwb_vO/ts
-#EXTINF:0,CR: Extrema TV
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K33GdeAWrgJ8_br-pXTSdVDa-jdY3M99uIER9a0yCew-8/ts
-#EXTINF:0,EC: Canela Tv
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xs2kiDt5png-4oX5wNZRrPa1QomPuxmDiDG9DroF1gp/ts
 #EXTINF:0,CINE Y TV : STAR CHANNEL
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38qOjBqMXoGvMraBLVczmsckwnzopjSOuk1mRzhvMpVi/ts
 #EXTINF:0,ENTRE: TELEMUNDO MIAMI
@@ -1592,14 +1647,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3-gssIGvjzNAf_syqg-I_n05w6Y
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ok29AV2GWw1cqJtR0G0oMocQT_OWzevbNT57oakv-X/ts
 #EXTINF:0,Las Estrellas
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K38ok29AV2GWw1cqJtR0G0oNA0J_bYJd8jIfcz3BqwaSm/ts
-#EXTINF:0,Cristianos TV: LOGOS TV
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08te4Ocm2LXSOJbxo42dIhxu/ts
-#EXTINF:0,Cristianos TV: LOGOS TV SALUD
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08tj7NDHAjRATzGPaY4p9urX/ts
-#EXTINF:0,Cristianos TV: LOGOS TV ESTUDIO
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08tMpI_ERWqtBCczyClEKKUj/ts
-#EXTINF:0,Cristianos TV: LOGOS TV KIDS
-http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wbcj1kHdJHKGx9Y0xvi08sUhOAOtkm7hQLSPhvLpGxR/ts
 #EXTINF:0,ENTRE: UNIVISION TELENOVELAS HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K35QvxhIt1-9K6Ia0mPffEdkQdEDxiQglWogE-t27b4vr/ts
 #EXTINF:0,GT: Antigua
@@ -1620,6 +1667,345 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K34dCQV161epAnmw4EsLaJy6u6BT
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xXbjWu4dpr1lLV-m9ySrqHCqdYGbs3S3wX7tgs9nHbG/ts
 #EXTINF:0,ENLACE TV
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3xXbjWu4dpr1lLV-m9ySrqHCqdYGbs3S3wX7tgs9nHbG/ts
+#EXTINF:0,ALF 24/7 - 129321
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129321
+#EXTINF:0,EL PRINCIPE DEL RAP DE BELL AIR 24/7 - 129317
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129317
+#EXTINF:0,HE-MAN 24/7 - 129376
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129376
+#EXTINF:0,BIRDMAN 24/7 - 140844
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140844
+#EXTINF:0,XMEN ANIMADO 24/7 - 129386
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129386
+#EXTINF:0,LOS CABALLEROS DEL ZOODIACO 24/7 - 3397
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3397
+#EXTINF:0,DRAGON BALL GT 24/7 - 129334
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129334
+#EXTINF:0,DRAGON BALL  24/7 - 129328
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129328
+#EXTINF:0,DRAGON BALL Z 24/7 - 129329
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129329
+#EXTINF:0,DRAGON BALL SUPER 24/7 - 129326
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129326
+#EXTINF:0,BATMAN LA SERIE ANIMADA 24/7 - 3361
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3361
+#EXTINF:0,SPIDERMAN ANIMADO 24/7 - 129362
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129362
+#EXTINF:0,ONE PUNCH MAN 24/7 - 129342
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129342
+#EXTINF:0,LOS PICAPIEDRAS 24/7 - 129349
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129349
+#EXTINF:0,LA PANTERA ROSA 24/7 - 129347
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129347
+#EXTINF:0,DICK TRACY 24/7 - 140847
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140847
+#EXTINF:21,DANIEL EL TRAVIESO 24/7 - 140846
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140846
+#EXTINF:0,EL PAJARO LOCO 24/7 - 129336
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129336
+#EXTINF:0,EL GATO COSMICO 24/7 - 129335
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129335
+#EXTINF:0,SUPER CAMPEONES 24/7 - 129319
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129319
+#EXTINF:0,CINE INFANTIL 24/7 - 2554
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2554
+#EXTINF:0,TOM Y JERRY 24/7 - 129327
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129327
+#EXTINF:0,DINOSAURIOS 24/7 - 129314
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129314
+#EXTINF:0,EL HERALDO NOTICIAS - 148883
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148883
+#EXTINF:0,CARACOL NOTICIAS - 3574
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3574
+#EXTINF:0,CINEMA+ HD - 151651
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151651
+#EXTINF:0,MOVIESTAR SERIES - 126355
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126355
+#EXTINF:0,TV AZTECA GUATE - 145748
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145748
+#EXTINF:0,CANAL 12 REP DOM - 131904
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131904
+#EXTINF:0,AZTECA CINEMA - 145509
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145509
+#EXTINF:0,CITY TV - 4867
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4867
+#EXTINF:0,BELLA ASUNCION - 151456
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151456
+#EXTINF:0,CUBAPLAY - 126549
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126549
+#EXTINF:0,TCS PLUS - 126539
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126539
+#EXTINF:0,MASTV - 125918
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125918
+#EXTINF:0,WOW TV - 145741
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145741
+#EXTINF:0,CANAL 12 - 126545
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126545
+#EXTINF:0,TELERED - 125917
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125917
+#EXTINF:0,CANAL 6 EL SALVADOR - 126543
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126543
+#EXTINF:0,CANAL VISION DORADA - 146591
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/146591
+#EXTINF:0,PELICULAS ROMANCE 24/7 - 131454
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131454
+#EXTINF:0,CINE ROMANCE HD 24/7 - 2562
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2562
+#EXTINF:0,MATRIX 24/7 - 129381
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129381
+#EXTINF:0,SCARY MOVIE 24/7 - 129380
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129380
+#EXTINF:0,RESIDENT EVIL 24/7 - 129379
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129379
+#EXTINF:0,JOHN WICK 24/7 - 129378
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129378
+#EXTINF:21,HARRY POTTER 24/7 - 129377
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129377
+#EXTINF:0,CREPUSCULO 24/7 - 129374
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129374
+#EXTINF:0,INFRAMUNDO 24/7 - 129373
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129373
+#EXTINF:0,XMEN PELICULAS 24/7 - 129375
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129375
+#EXTINF:0,MARVEL 24/7 - 129366
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129366
+#EXTINF:0,BREAKING BAD 24/7 - 3364
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3364
+#EXTINF:0,DRAMA MOVISTAR 24/7 - 129369
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129369
+#EXTINF:0,TEMES A LA OSCURIDAD 24/7 - 129368
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129368
+#EXTINF:0,CINE TERROR HD 24/7 - 2564
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2564
+#EXTINF:0,CINE TERROR 24/7  - 2563
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2563
+#EXTINF:0,MY TIME MOVIE LATINO 24/7 - 2559
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2559
+#EXTINF:0,CINE FICCION FANTASIA 24/7 - 2552
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2552
+#EXTINF:21,CINE FICCION FANTASIA 1 - 2550
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2550
+#EXTINF:0,CINE FICCION FANTASIA 2 - 2551
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2551
+#EXTINF:0,CINE FICCION/FANTASIA SAGAS 24/7 - 2553
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2553
+#EXTINF:0,CINE COMEDIA 1 24/7 - 2548
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2548
+#EXTINF:0,CSI MIAMI 24/7 - 2547
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2547
+#EXTINF:0,CINE ACCION 3 24/7 - 2546
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2546
+#EXTINF:0,CINE ACCION 2 24/7 - 2544
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2544
+#EXTINF:0,TV5 MONDE - 135880
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135880
+#EXTINF:0,CANAL ORBE 21 CRISTIANO - 4832
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4832
+#EXTINF:0,ENLACE CRISTIANO - 4937
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4937
+#EXTINF:0,VIDA TV CRISTIANO - 151783
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151783
+#EXTINF:0,HOSSANA TV CRISTIANO - 151801
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151801
+#EXTINF:0,UNIDAD EVANGELICA CRISTIANO - 151781
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151781
+#EXTINF:0,VC ONLINE CRISTIANO - 151782
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151782
+#EXTINF:0,YES HE IS CRISTIANO - 135045
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135045
+#EXTINF:0,ESPERANZA TV CRISTIANO  - 125915
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125915
+#EXTINF:0,EBENEZER CRISTIANO - 125930
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125930
+#EXTINF:0,ELIM TV CRISTIANO - 151805
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151805
+#EXTINF:0,TABER TV CRISTIANO - 152950
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152950
+#EXTINF:0,ESTRELLA TV MIAMI - 145744
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145744
+#EXTINF:0,GOLPERU - 4841
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4841
+#EXTINF:0,MOVISTAR DEPORTES - 4830
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4830
+#EXTINF:0,MOVISTAR DEPORTES - 4840
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4840
+#EXTINF:0,WIN SPORTS - 4812
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4812
+#EXTINF:0,TNT SPORTS - 144859
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/144859
+#EXTINF:0,ESPN - 4794
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4794
+#EXTINF:0,ESPN - 135646
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135646
+#EXTINF:0,ESPN 3 - 4795
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4795
+#EXTINF:0,ESPN PREMIUM - 4787
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4787
+#EXTINF:0,ESPN EXTRA - 4941
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4941
+#EXTINF:0,FOX SPORTS - 135645
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135645
+#EXTINF:0,FOX SPORTS2 - 145409
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145409
+#EXTINF:0,DIRECT SPORTS - 135642
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135642
+#EXTINF:0,DIRECT SPORTS 2 - 135643
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135643
+#EXTINF:0,DIRECT SPORTS 2 - 135644
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135644
+#EXTINF:0,TNT - 134706
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/134706
+#EXTINF:0,DAZN - 137918
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/137918
+#EXTINF:0,TD PLUS - 145465
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145465
+#EXTINF:0,TD PLUS 2 - 145466
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145466
+#EXTINF:0,CANAL 14 TV NORTE - 150684
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150684
+#EXTINF:0,TICAVISION CANAL 52 HD - 137079
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/137079
+#EXTINF:0,TELESUR COSTA RICA - 135047
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135047
+#EXTINF:0,MULTIMEDIOS CANAL 6 - 125919
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125919
+#EXTINF:0,MULTIMEDIOS CANAL 8 - 135046
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135046
+#EXTINF:0,TELETICA 7 - 125916
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125916
+#EXTINF:0,TELEUNO TV - 125913
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125913
+#EXTINF:0,REPRETEL 4 - 125908
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125908
+#EXTINF:21,REPRETEL 6 - 125907
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125907
+#EXTINF:0,REPRETEL 11 - 125906
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125906
+#EXTINF:0,TELEMARTI - 126550
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126550
+#EXTINF:0,TUDN - 145459
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145459
+#EXTINF:0,AFFIZZIONADOS - 148889
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148889
+#EXTINF:0,TVO - 152578
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152578
+#EXTINF:0,TVM TRIBUNA SPORTS - 152949
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152949
+#EXTINF:0,CURIOSITY - 146597
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/146597
 #EXTINF:0,UK B4U Movies
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K39ilI4ZjjufFZJjV098S_bD0ZoIYdNC6tolFUDNH9ePu/ts
 #EXTINF:0,UK: Sky Cinema Action
@@ -5578,7 +5964,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zh-U1STBYI_-FWOAQo5ReXt3Vy
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3zh-U1STBYI_-FWOAQo5ReVGbInZn6X7trlrkfJLX7Tu/ts
 #EXTINF:0,LLE: ESPN 1 Argentina HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K373sbDO2XRa_Y5eW8jKP5Sg1CewbeqmyGFFbfqNIQpcf/ts
-#EXTINF:0,h_134 - al_c,lg_1,q_85,enc_auto/LOGO%20LATINO%20KIDS%20TV%202022%20LETRAS.png" group-title="INFANTILEShttp://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wIf-IEVXaMyVRKHzzG-z19rLeC8YiIJFj1CUKZwxXgo/ts
 #EXTINF:0,Infantil: Baby Shark TV
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsrtlC75fOzTwX-FCHSh_OL5/ts
 #EXTINF:0,Infantil: Planeta TV Kids
@@ -5589,7 +5974,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsrDPkT
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsp0RWh6uC0oqhC_Ua-e2ni0/ts
 #EXTINF:0,Infantil: Latino Kids TV
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsrdsy06Ob0taqnI9sXjzbAm/ts
-#EXTINF:0,h_1330 - al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTILEShttp://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K31RdQvgn19LFwzzpb0zvZsooiSXmwK7bLD1o4rnizLd2/ts
 #EXTINF:0,GT: Canal 11
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3yp4s22_cVJaLY5az0wAyvqDhAwk3HVIbnq1RHVN4Cvs/ts
 #EXTINF:0,GT: Canal 3
@@ -5682,7 +6066,6 @@ http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wPaf-ZW663IpxJjnl_tlyYNAxR
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wPaf-ZW663IpxJjnl_tlyYPuMUwdH7I-ja2EdmYVVjO/ts
 #EXTINF:0,DEP HD: ESPN 2 SUR
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wPaf-ZW663IpxJjnl_tlybpYQ-px8N2gmTwRttzyXKN/ts
-#EXTINF:0,DEP HD: ESPN 3 SUR" tvg-logo="https://logodix.com/logo/1706807.png" group-title="Deportes http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wPaf-ZW663IpxJjnl_tlybO8qSzoXycnlvDMJEpRI1D/ts
 #EXTINF:0,DEP:  ESPN 1 USA HD
 http://vip.hispanotv.org:80/play/-UPVqINApOe-iC6FEZ-K3wPaf-ZW663IpxJjnl_tlyZ1ceqhYprZL86Ur98nsIC7/ts
 #EXTINF:0,DEP:  ESPN 2 USA
@@ -7011,8 +7394,6 @@ http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-M7YEzREBsTs8yGbuIrjAlgJi1K
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-M7YEzREBsTs8yGbuIrjAlj16B_BM99yxq-oNS3LuxPa#.mp4
 #EXTINF:0,Fashionistas Lost   Scene 01
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-M7YEzREBsTs8yGbuIrjAlhFXoUluR3mNFllYcsGwMbf#.mp4
-#EXTINF:0,http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-M7YEzREBsTs8yGbuIrjAlgidIpQmYvoglHonbpFveiV#.mp4
-#EXTINF:0,http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-M7YEzREBsTs8yGbuIrjAljpuv516-GaJNCung-CXBzj#.mp4
 #EXTINF:0,Peep On Me 4k
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-O5so2ahYwCkTPQe34iD5rq9Wo344y2cHo8VTX9YysBC#.mp4
 #EXTINF:0,19.91 (2019)
@@ -7413,7 +7794,6 @@ http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-HSIRPpi0gN0gAwXdWLwDYgZ3kl
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-HSIRPpi0gN0gAwXdWLwDYh3oeqsquxOysCI66HTD1bX#.mp4
 #EXTINF:0,Esposa sumisa castigada brutalmente en la webcam
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-HSIRPpi0gN0gAwXdWLwDYiENAdV0M4JtnPi81CLBaCw#.mp4
-#EXTINF:0,Helping My Voluptuous Vixen Celebrate Her Birthday in Style http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-HSIRPpi0gN0gAwXdWLwDYgsgqhteM4oknSjMj8Utq3b#.mp4
 #EXTINF:0,2 milfs españolas desvirgan a 3 jovencito2
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-HSIRPpi0gN0gAwXdWLwDYhD-ETN2fCQH5KA-Qy7wDt-#.mp4
 #EXTINF:0,Fecundando a una madurita asiática
@@ -7640,3 +8020,5 @@ http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-O5so2ahYwCkTPQe34iD5rrMzQ5
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-O5so2ahYwCkTPQe34iD5rr2JNfSaHpy4ngnIgrUlfVf#.mp4
 #EXTINF:0,Jenny & Linda20
 http://vip.hispanotv.org:80/play/VXlhJ0vs2Jr0PSxLoGqq-O5so2ahYwCkTPQe34iD5rqox6Gua4RqZekJysYda_Cs#.mp4
+
+
